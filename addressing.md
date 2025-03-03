@@ -10,18 +10,21 @@ AWG is aiming to greatly improve address generation quality, representation, dat
     * the strategic vision for ANZ addressing
 2. **Data Representation and Exchange Rules**
     * how to represent and exchange data for accuracy and interoperability across jurisdictions
-3. **Address operations guidance**
+3. **Operations guidance**
     * inter-jurisdictional consensus on how to create and maintain addresses to meet the strategy's objectives and use the new representation and exchange rules
 
 ## Resources
 
 The statuses of AWG resources in the areas of work are as follows:
 
-| **Area of work** | **Resource**                            | **Status** | **Dates**      | **Notes** |
-|------------------|-----------------------------------------|------------|----------------|-----------|
-| Strategy         | Addressing 2035 Strategy                | Published  | December, 2021 | &nbsp;    |
-| Data Representation and Exchange Rules | ICSM ANZ Address Model                      | Published & approved for use | July, 2024 | Open to updates & supplimentary resource publication |
-| Address operations guidance | Address Creation & Maintenance Standard | Early Draft | Expected publication in 2025 | Replacement for [AS4189](https://www.icsm.gov.au/what-we-do/addressing/standards-rural-and-urban-addressing-as4819)
+| **Area of work**                       | **Resource**                            | **Status**                   | **Dates**                    | **Notes**                                                                                                           |
+|----------------------------------------|-----------------------------------------|------------------------------|------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Strategy                               | Addressing 2035 Strategy                | Published                    | December, 2021               |                                                                                                                     |
+| Data Representation and Exchange Rules | ICSM ANZ Address Model                  | Published & approved for use | July, 2024                   | Open to updates & supplementary resource publication                                                                |
+| Operations guidance                    | Address Creation & Maintenance Standard | Early Draft                  | Expected publication in 2025 | Replacement for [AS4189](https://www.icsm.gov.au/what-we-do/addressing/standards-rural-and-urban-addressing-as4819) |
+
+
+<img src="images/address-strategy-screenshot.png" style="width:20%; float:right;" />
 
 ### 1. Addressing 2035 Strategy
 
@@ -31,6 +34,8 @@ AWG has published “Addressing 2035”, a strategy which defines a vision and r
     * [Addressing 2035 Supporting Addendum](https://www.icsm.gov.au/sites/default/files/ICSM%20Addressing%20Strategy%20Information%20Addendum.pdf)
 
 ### 2. Address Model
+
+<img src="images/address-model-overview.png" style="width:20%; float:right; clear:right; margin-top:20px;" />
 
 AWG has published the "ICSM ANZ Address Model" which is a model for address information representation and data exchange that both builds on the [ISO19160-1 _Addressing Part 1: Conceptual model_](https://www.iso.org/standard/61710.html) and specifically addresses the "Model Directions" of the _Addressing 2035 Strategy Supporting Addendum_.
 
@@ -47,9 +52,11 @@ The Address Model has the following parts:
 
 ### 3. Address Creation & Maintenance Standard
 
-This standard which is in early draft as of March, 2025, is intended to be a replacement for [AS/NZS 4819:2011 Rural and urban addressing](https://www.icsm.gov.au/what-we-do/addressing/standards-rural-and-urban-addressing-as4819).
+<img src="images/address-cm-screenshot.png" style="width:20%; float:right;" />
 
-The need for a replacement has been the publication of the Strategy and the Model which require published guidance in areas not tackled by AS4189 and the incorporation of model use in address data generation and exchange.
+This standard, which is in early draft as of March 2025, is intended to be a replacement for [AS/NZS 4819:2011 Rural and urban addressing](https://www.icsm.gov.au/what-we-do/addressing/standards-rural-and-urban-addressing-as4819).
+
+The need for a replacement has been the publication of the Strategy and the Model which require published guidance in areas not tackled by AS4189 and the incorporation of model use in address data generation and exchange. This new standard will also depend on and reference the developing [_Geographical Names Creation & Maintenance Standard_ (proposed)](https://linked.data.gov.au/def/gn-cm), for instance with respect to guidance on how addresses can incorporate geographical names.
 
 This resource is soon to be reviewed by AWG members (by June, 2025) and is expected to be published within 2025.
 
