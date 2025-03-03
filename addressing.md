@@ -23,10 +23,9 @@ The statuses of AWG resources in the areas of work are as follows:
 | Data Representation and Exchange Rules | ICSM ANZ Address Model                  | Published & approved for use | July, 2024                   | Open to updates & supplementary resource publication                                                                |
 | Operations guidance                    | Address Creation & Maintenance Standard | Early Draft                  | Expected publication in 2025 | Replacement for [AS4189](https://www.icsm.gov.au/what-we-do/addressing/standards-rural-and-urban-addressing-as4819) |
 
+### 1. Addressing 2035 Strategy
 
 <img src="images/address-strategy-screenshot.png" style="width:20%; float:right;" />
-
-### 1. Addressing 2035 Strategy
 
 AWG has published “Addressing 2035”, a strategy which defines a vision and roadmap to deliver a dynamic and integrated whole of Government addressing ecosystem, to enable service delivery and support a 3D and 4D digital economy.
 
