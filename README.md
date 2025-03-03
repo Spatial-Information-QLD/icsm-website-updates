@@ -5,4 +5,4 @@ This repository contains draft updates to the ICSM website at <https://www.icsm.
 ## Addresing
 
 * current - https://www.icsm.gov.au/what-we-do/addressing
-* proposed - [addressing.md](addressing)
+* proposed - [addressing.md](addressing.md)
