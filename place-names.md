@@ -18,13 +18,13 @@ While the PNWG facilitates coordinated and cohesive approaches across names auth
 
 The [PNWG](https://www.icsm.gov.au/what-we-do/place-names/australia-and-new-zealand-working-group-place-names) is aiming to greatly improve place names generation quality, representation, data interoperability, use within addressing data and name management processes in all ICSM member jurisdictions over a number of years. To do this it is publishing and expecting to publish resources that tackle different areas of the place naming domain. These areas are:
 
-1. **Principles**
-    * agreeing on and stating the principles of place naming, as distilled from PNWG work over decades and international Best Practice
 1. **Strategy**
     * the strategic vision for Place Naming that improves Place Names and their related work in ANZ according to the Principles
-2. **Data Representation and Exchange Rules**
+2. **Principles**
+    * agreeing on and stating the principles of place naming, as distilled from PNWG work over decades and international Best Practice
+3. **Data Representation and Exchange Rules**
     * how to represent and exchange data for accuracy and interoperability across jurisdictions
-3. **Operations guidance**
+4. **Operations guidance**
     * inter-jurisdictional consensus on how to create and maintain Place Names to meet the principles, strategy's objectives and use the new representation and exchange rules
 
 ## Resources
@@ -33,10 +33,16 @@ The statuses of PNWG resources in the areas of work are as follows:
 
 | **Area of work**                       | **Resource**                                       | **Status**         | **Dates**                         | **Notes**                                                                                                             |
 |----------------------------------------|----------------------------------------------------|--------------------|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| Principles                             | ICSM Geographical Naming Principles                | Early draft        | Expected publication in Q2, 2025  |                                                                                                                       |
 | Strategy                               | ICSM Geographical Naming 203X Strategy             | Not started yet    | Expected publication in 2025/2026 |                                                                                                                       |
+| Principles                             | ICSM Geographical Naming Principles                | Early draft        | Expected publication in Q2, 2025  |                                                                                                                       |
 | Data Representation and Exchange Rules | ICSM Geographical Names Model                      | Created & proposed | July, 2024                        | Created and in use (Qld), not yet approves for national use<br />Open to updates & supplementary resource publication |
-| Operations guidance                    | Geographical Names Creation & Maintenance Standard | Early Draft        | Expected publication in 2025      |                                                                                                                       |
+| Operations Guidance                    | Geographical Names Creation & Maintenance Standard | Early Draft        | Expected publication in 2025      |                                                                                                                       |
+
+### 2. ICSM Geographical Naming 203X Strategy
+
+The Strategy will indicate how jurisdictions and meet the expectations of the _Principles_.
+
+The PNWG aims to publish a Strategy in 2025 that is similar in scope to the [Addressing 2035 Strategy](https://www.icsm.gov.au/what-we-do/addressing). Work on this Strategy has not yet produced publicly available resources yet.
 
 ### 1. ICSM Geographical Naming Principles 
 
@@ -47,12 +53,6 @@ The _ICSM Geographical Naming Principles_ "specifies how place names should be a
 Is in early draft at:
 
 * <https://linked.data.gov.au/def/gn-pr>
-
-### 2. ICSM Geographical Naming 203X Strategy
-
-The Strategy will indicate how jurisdictions and meet the expectations of the _Principles_.
-
-The PNWG aims to publish a Strategy in 2025 that is similar in scope to the [Addressing 2035 Strategy](https://www.icsm.gov.au/what-we-do/addressing). Work on this Strategy has not yet produced publicly available resources yet.
 
 ### 3. ICSM Geographical Names Model
 

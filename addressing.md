@@ -10,7 +10,7 @@ AWG is aiming to greatly improve address generation quality, representation, dat
     * the strategic vision for ANZ addressing
 2. **Data Representation and Exchange Rules**
     * how to represent and exchange data for accuracy and interoperability across jurisdictions
-3. **Operations guidance**
+3. **Operations Guidance**
     * inter-jurisdictional consensus on how to create and maintain addresses to meet the strategy's objectives and use the new representation and exchange rules
 
 ## Resources
@@ -21,7 +21,7 @@ The statuses of AWG resources in the areas of work are as follows:
 |----------------------------------------|-----------------------------------------|------------------------------|------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Strategy                               | Addressing 2035 Strategy                | Published                    | December, 2021               |                                                                                                                     |
 | Data Representation and Exchange Rules | ICSM ANZ Address Model                  | Published & approved for use | July, 2024                   | Open to updates & supplementary resource publication                                                                |
-| Operations guidance                    | Address Creation & Maintenance Standard | Early Draft                  | Expected publication in 2025 | Replacement for [AS4189](https://www.icsm.gov.au/what-we-do/addressing/standards-rural-and-urban-addressing-as4819) |
+| Operations Guidance                    | Address Creation & Maintenance Standard | Early Draft                  | Expected publication in 2025 | Replacement for [AS4189](https://www.icsm.gov.au/what-we-do/addressing/standards-rural-and-urban-addressing-as4819) |
 
 ### 1. Addressing 2035 Strategy
 
